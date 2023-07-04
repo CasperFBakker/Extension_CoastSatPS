@@ -17,7 +17,7 @@ This code has been applied for a study of the Marker Wadden, Netherlands. This a
 When all files and user_inputs are changed
 
 The main file runs 4 steps:
-    1. Translating the UDM to the same extent as the georeferenced imagery.
-    2. Running the main script of CoastSat.PlanetScope'
-    3. Storing the output shorelines as .csv-files.
-    4. Computing the cross-shore water correction.
+1. Translating the UDM to the same extent as the georeferenced imagery.
+2. Running the main script of CoastSat.PlanetScope'
+3. Storing the output shorelines as .csv-files.
+4. Computing the cross-shore water correction.
