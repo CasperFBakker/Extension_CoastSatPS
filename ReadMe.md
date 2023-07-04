@@ -10,7 +10,7 @@ This guide is based on the workflow shown below.
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://github.com/CasperFBakker/Extension_CoastSatPS/blob/main/readme_files/WorkFlow.png)">
  <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://github.com/CasperFBakker/Extension_CoastSatPS/blob/main/readme_files/WorkFlow.png)">
- <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://github.com/CasperFBakker/Extension_CoastSatPS/blob/main/readme_files/WorkFlow.png)">
+ <img alt="Workflow" src="[YOUR-DEFAULT-IMAGE](https://github.com/CasperFBakker/Extension_CoastSatPS/blob/main/readme_files/WorkFlow.png)">
 </picture>
 
 
