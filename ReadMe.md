@@ -15,7 +15,7 @@ An extensive guide on how to use this package has been provided [here](https://g
 
 
 # Installation
-To use this package, follow the installation instructions for CoastSat.PlanetScope. Once the original code is installed, add this package to the script.
+To use this package, follow the installation instructions for CoastSat.PlanetScope. Once the original code is installed, add this package to the script. To work with this run the line: python main.py
 
 
 # Usage
