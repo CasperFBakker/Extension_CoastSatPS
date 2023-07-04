@@ -7,7 +7,7 @@ The idea behind this package is to install the original code of CoastSat.PlanetS
 
 An extensive guide on how to use this package has been added [here](https://github.com/CasperFBakker/Extension_CoastSatPS/tree/main/readme_files/GuideForCSPS.pdf).
 This guide is based on the workflow shown below.
-![alt text](https://github.com/CasperFBakker/Extension_CoastSatPS/blob/main/readme_files/WorkFlow.png)
+![alt text](Example_ResultArea.png)
 
 
 The main file runs 4 steps:
